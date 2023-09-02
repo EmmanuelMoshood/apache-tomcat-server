@@ -1,6 +1,6 @@
 <h1 align="center">apache-tomcat-appserver</h1>
 <!-- <div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div> -->
-<h3 align="center">Hi my name is Emmanuel and I am passionate about building solutions </h3>
+<h3 align="center">Hi my name is Emmanuel and I am passionate about building architecture for software development </h3>
 
 <h2 align="center">STEPS TO DEPLOY AN APPLICAITON FROM GITHUB TO TOMCAT:</h2>
 
